@@ -58,7 +58,7 @@ git branch -d iss14
 Create a new branch :
 
 ```bash
-git ??? ??? newFeature
+git checkout -b newFeature
 ```
 
 - `checkout`
